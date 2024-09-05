@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "843e",
+      "username": "Paula34",
+      "correo": "marin@gamil.com",
+      "pass": "8657"
+    },
+    {
+      "id": "73ca",
+      "username": "Suany54",
+      "correo": "arrieta@gmail.com",
+      "pass": "976s"
+    },
+    {
+      "id": "ee32",
+      "username": "Michelle",
+      "correo": "lopez@gmail.com",
+      "pass": "13234"
+    }
+  ]
+}

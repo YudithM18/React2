@@ -1,0 +1,8 @@
+.contenedor{
+    text-align: center;
+    width: 400px;
+    padding: 30px;
+    background-color: skyblue;
+    box-shadow: 7px 13px 38px black;
+    margin-left: 450px;
+}
